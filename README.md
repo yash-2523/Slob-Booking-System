@@ -1,7 +1,7 @@
 # Slob-Booking-System
 Slot Booking System in PHP &amp; MySQL Database where people can book or event if that slot is empty, with an Admin panel where Admin can accept or reject request for booking slot and can see all the slot.
 
-#User Functionalities
+# User Functionalities
 
 1) Can Login/Register
 2) Can view schedule of all the booked evnt, but can see details of the event only booked by them.
